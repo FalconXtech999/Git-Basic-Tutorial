@@ -59,7 +59,7 @@
 | ------- | ----------- |
 | `git revert`  |  Making a new commit that revert the changes made by other commit  |
 | `git restore`  | Restore file in the working tree from either the index or another commit  |
-| `git reset`  |  Update your branch, moving the tip in order add or remove commit from the branch. This operation changes the commit history  |
+| `git reset`  |  Update your branch, moving the tip in order to add or remove commit from the branch. This operation changes the commit history  |
 
 ### Inspection & Comparison
 
