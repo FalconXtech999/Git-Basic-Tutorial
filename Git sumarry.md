@@ -32,7 +32,7 @@ Software is created to address user issues. These solutions increasingly come in
 #### Sharing 
 **VCS** allows for communication, sharing, and coordination between every member of the software development team. Teams can work in distant and asynchronous environments thanks to version control software, which also helps them manage changes to code and other documents as well as merge conflicts and other oddities.
 
-#### Copy of Work (sometimes called as checkout)**
+#### Copy of Work (sometimes called as checkout)
 It is the personal copy of all the files in a project. You can edit to this copy, without affecting the work of others and you can finally commit your changes to a repository when you are done making your changes.
 
 #### Repository
