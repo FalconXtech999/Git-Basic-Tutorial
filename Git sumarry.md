@@ -1,5 +1,5 @@
 # Git Quick Tutorial
-<span style="font-family: Monospace;">
+
 ![git-image2](Images/gitimg.jpg)
 
 ## Table of Content
@@ -47,10 +47,11 @@ It can be thought of as a database of changes. It contains all the edits and his
 
 
 #### Local Version Control System 
-A **LVCS** is a local database located on your local computer, in which every file change is stored as a patch. Every patch set contains only the changes made to the file since its last version.
+**LVCS** is a local database located on your local computer, in which every file change is stored as a patch. Every patch set contains only the changes made to the file since its last version.
+
 
 ![Local_version_control_system](Images/local-version%20control.png)
-##### <p style="text-align: center;">*Local Version Control Diagram*</p>
+##### *Local Version Control Diagram*
 
 
 #### Centralized Version Control System (CVCS)
@@ -58,7 +59,7 @@ A **LVCS** is a local database located on your local computer, in which every fi
 
 
 ![centralized_version_control_system](Images/Centralized-Version-Control.png)
-###### <p style="text-align: center;">*Centralized Version Control Diagram*</p>
+###### *Centralized Version Control Diagram*
 
 
 #### Distributed Version Control System (DVCS)
@@ -66,7 +67,7 @@ A **LVCS** is a local database located on your local computer, in which every fi
 
 
 ![distributed_version_control_system](Images/Distributed-Version-Control-System.png)
-##### <p style="text-align: center;"> *Distributed Version Control Diagram*</p>
+##### *Distributed Version Control Diagram*
 
 
 ### Popular Hosting Platform for VCS
@@ -81,6 +82,6 @@ A **LVCS** is a local database located on your local computer, in which every fi
 9. Allura [link :arrow_upper_right:](https://allura.apache.org/)
 10. Rhodecode [link :arrow_upper_right:](https://rhodecode.com/try-rhodecode)
 11. Codegaint [link :arrow_upper_right:](https://codegiant.io/home)
+
     
-</span>
     **[Basic Git Command](Basic_git_comand.md)**
